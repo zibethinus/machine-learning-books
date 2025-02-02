@@ -1,4 +1,4 @@
-# machine-learning-books
+# Machine learning books
 Below is a curated list of machine learning books that many learners—from complete beginners to advanced practitioners—find valuable. The right choice for you will depend on your background (in programming, mathematics, or statistics) and your learning goals (theory versus hands‐on practice). Below is an organized overview with several recommendations and brief descriptions:
 
 ---
