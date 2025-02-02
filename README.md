@@ -3,7 +3,7 @@ Below is a curated list of machine learning books that many learners—from comp
 
 ---
 
-## For Beginners and Absolute Newcomers
+## 0. For Beginners and Absolute Newcomers
 
 If you’re completely new to machine learning, look for books that introduce core concepts without assuming prior coding or advanced math knowledge:
 
@@ -21,7 +21,7 @@ If you’re completely new to machine learning, look for books that introduce co
 
 ---
 
-## For Learners with Some Programming Experience
+## 1. For Learners with Some Programming Experience
 
 If you already know Python or another programming language and want to build practical skills, these titles combine theory with code examples and project-based exercises:
 
@@ -39,7 +39,7 @@ If you already know Python or another programming language and want to build pra
 
 ---
 
-## For Intermediate to Advanced Readers
+## 2. For Intermediate to Advanced Readers
 
 For readers who want a deeper theoretical understanding or who are tackling advanced topics in machine learning and deep learning, consider these texts:
 
