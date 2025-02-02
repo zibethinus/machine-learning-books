@@ -12,7 +12,7 @@ If you’re completely new to machine learning, look for books that introduce co
   
 
 - [**The Hundred-Page Machine Learning Book** by Andriy Burkov](/0-beginners-and-newcomers/The%20Hundred-Page%20Machine%20Learning%20Book%20by%20Andriy%20Burkov.pdf)  
-  Despite its brevity, this book offers a compact overview of major machine learning ideas and is especially popular among interviewees and those looking for a “big picture” understanding.  
+  Despite its brevity, this book offers a compact overview of major machine learning ideas and is especially popular among interviewees and those looking for a “big picture” understanding. [Free official PDF](https://themlbook.com/wiki/doku.php)  
   
 
 - [**Machine Learning For Dummies** by John Paul Mueller and Luca Massaron](/0-beginners-and-newcomers/Machine%20Learning%20For%20Dummies%20by%20John%20Paul%20Mueller%20and%20Luca%20Massaron.pdf)  
@@ -44,7 +44,7 @@ If you already know Python or another programming language and want to build pra
 For readers who want a deeper theoretical understanding or who are tackling advanced topics in machine learning and deep learning, consider these texts:
 
 - [**Deep Learning** by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](/2-intermediate-to-advanced/Deep%20Learning%20by%20Ian%20Goodfellow,%20Yoshua%20Bengio,%20and%20Aaron%20Courville.pdf)  
-  Often regarded as the “bible” of deep learning, it provides comprehensive coverage of the mathematical and conceptual foundations behind neural networks and deep learning methods.  
+  Often regarded as the “bible” of deep learning, it provides comprehensive coverage of the mathematical and conceptual foundations behind neural networks and deep learning methods. [Free official PDF](https://www.deeplearningbook.org/)  
   
 
 - [**Pattern Recognition and Machine Learning** by Christopher M. Bishop](/2-intermediate-to-advanced/Pattern%20Recognition%20and%20Machine%20Learning%20by%20Christopher%20M.%20Bishop.pdf)  
@@ -55,10 +55,10 @@ For readers who want a deeper theoretical understanding or who are tackling adva
   
 
 - [**Mathematics for Machine Learning** by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong](/2-intermediate-to-advanced/Mathematics%20for%20Machine%20Learning%20by%20Marc%20Peter%20Deisenroth,%20A.%20Aldo%20Faisal,%20and%20Cheng%20Soon%20Ong.pdf)  
-  Essential for understanding the mathematical underpinnings of machine learning algorithms, this book makes advanced linear algebra, calculus, and probability accessible to those who need the theory behind the techniques.
+  Essential for understanding the mathematical underpinnings of machine learning algorithms, this book makes advanced linear algebra, calculus, and probability accessible to those who need the theory behind the techniques. [Free official PDF](https://mml-book.github.io/)
 
 - [**Foundations of Machine Learning** by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar](/2-intermediate-to-advanced/Foundations%20of%20Machine%20Learning%20by%20Mehryar%20Mohri,%20Afshin%20Rostamizadeh,%20and%20Ameet%20Talwalkar.pdf)  
-  A solid theoretical reference that discusses the learning theory behind algorithms and provides insights into performance and generalization.
+  A solid theoretical reference that discusses the learning theory behind algorithms and provides insights into performance and generalization. [Free official PDF](https://cs.nyu.edu/~mohri/mlbook/)
 
 ---
 
